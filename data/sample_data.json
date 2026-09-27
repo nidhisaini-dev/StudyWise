@@ -1,0 +1,27 @@
+{
+    "student": {
+        "name": "Nidhi",
+        "roll_number": "101"
+    },
+    "subjects": [
+        {
+            "name": "Python",
+            "marks": [65, 70, 60],
+            "attendance": 75,
+            "assessment_load": 50
+        },
+        {
+            "name": "Data Structures",
+            "marks": [55, 60, 50],
+            "attendance": 70,
+            "assessment_load": 65
+        },
+        {
+            "name": "Mathematics",
+            "marks": [40, 45, 50],
+            "attendance": 65,
+            "assessment_load": 80
+        }
+    ],
+    "total_study_hours": 10
+}

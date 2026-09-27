@@ -1,0 +1,57 @@
+{
+    "student": {
+        "name": "Nidhi",
+        "roll_number": "101"
+    },
+    "subjects": [
+        {
+            "name": "Python",
+            "marks": [
+                65.0,
+                70.0,
+                60.0
+            ],
+            "percentage": 65.0,
+            "attendance": 75.0,
+            "assessment_load": 50.0,
+            "performance_gap": 35.0,
+            "attendance_risk": 0,
+            "priority_score": 32.5,
+            "priority": "Low",
+            "study_hours": 2.52
+        },
+        {
+            "name": "Data Structures",
+            "marks": [
+                55.0,
+                60.0,
+                50.0
+            ],
+            "percentage": 55.0,
+            "attendance": 70.0,
+            "assessment_load": 65.0,
+            "performance_gap": 45.0,
+            "attendance_risk": 5.0,
+            "priority_score": 43.0,
+            "priority": "Medium",
+            "study_hours": 3.33
+        },
+        {
+            "name": "Mathematics",
+            "marks": [
+                40.0,
+                45.0,
+                50.0
+            ],
+            "percentage": 45.0,
+            "attendance": 65.0,
+            "assessment_load": 80.0,
+            "performance_gap": 55.0,
+            "attendance_risk": 10.0,
+            "priority_score": 53.5,
+            "priority": "Medium",
+            "study_hours": 4.15
+        }
+    ],
+    "total_study_hours": 10.0
+}

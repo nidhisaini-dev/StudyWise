@@ -8,3 +8,7 @@ def validate_attendance(attendance):
 
 def validate_study_hours(hours):
     return hours >= 0
+
+
+def validate_assessment_load(load):
+    return 0 <= load <= 100
