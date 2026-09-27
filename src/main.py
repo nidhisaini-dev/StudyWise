@@ -1,0 +1,1 @@
+print("StudyWise is starting...")
