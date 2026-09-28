@@ -30,7 +30,7 @@ The system calculates a priority score for each subject and generates a personal
 ## Project Structure
 
 ```text
-VITyarthi/
+StudyWise/
 ├── data/
 │   ├── sample_data.json
 │   ├── student_data.json
