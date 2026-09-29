@@ -114,9 +114,7 @@ All automated tests currently pass successfully.
 
 StudyWise uses password hashing so that the original password is not stored directly.
 
-The current implementation uses Python's built-in SHA-256 hashing for educational purposes.
-
-For a production-level application, a password hashing algorithm designed specifically for password storage, such as Argon2 or bcrypt with appropriate salting, should be used.
+The current implementation uses Python's built-in SHA-256 hashing.
 
 ## Repository
 
@@ -130,13 +128,7 @@ Possible future improvements for StudyWise include:
 
 - Graphical user interface (GUI)
 - Database integration
-- More robust input handling
 - Improved password security using Argon2 or bcrypt
-- Historical performance tracking
-- Study-plan calendar integration
-- Notifications and reminders
-- Data visualization for academic performance
 
-## License
 
-This project was developed as a college academic project for learning Python programming, problem solving, software design, testing, and version control.
+
