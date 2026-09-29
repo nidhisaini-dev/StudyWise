@@ -77,6 +77,15 @@ StudyWise/
 
 No external Python packages are required to run the current version of StudyWise.
 
+## Technologies & Tools Used
+
+- Python 3
+- Visual Studio Code
+- Git
+- GitHub
+- JSON for data storage
+- Python `unittest` for automated testing
+
 ## Running the Project
 
 1. Clone the repository.
