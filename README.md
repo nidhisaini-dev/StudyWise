@@ -53,7 +53,8 @@ StudyWise/
 │   ├── test_priority.py
 │   └── test_planner.py
 ├── .gitignore
-└── README.md
+├── README.md
+└── statement.md
 ```
 
 ## How It Works
